@@ -13,21 +13,21 @@ Will work with minimum requirements Python 3.9.16 | BeautifulSoup 4.11.1| Chrome
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ## 📚 Archive of our Own scraping and stats
 Pet project. Archive of our Own is the largest online archive of original stories and transformative works. In this project, a script takes a user's username, scrapes their works, and returns stats and trends.
-![Words through the years](a)
-![Kudos per hit by rating](a)
+![Words through the years](https://github.com/flbonanni/python/blob/master/AO3%20scraping%20and%20stats%20project/img/words%20through%20the%20years.png?raw=true)
+![Kudos per hit by rating](https://github.com/flbonanni/python/blob/master/AO3%20scraping%20and%20stats%20project/img/kudos%20per%20hit%20by%20rating.png?raw=true)
 ## 🥪 Food consumption database
 Statistical analysis of food consumption around the world including hypothesis testing.
-![Box plots](a)
+![Box plots](https://github.com/flbonanni/python/blob/master/Food%20consumption%20database/img/boxplots.png?raw=true)
 ## ⭐ Sentiment analysis
 Analyzing the reviews on a product to produce stats and wordclouds.
-![Positive wordcloud](a)
-![Reviews rating](a)
+![Positive wordcloud](https://github.com/flbonanni/python/blob/master/Sentiment%20analysis/img/positive%20wordcloud.png?raw=true)
+![Reviews rating](https://github.com/flbonanni/python/blob/master/Sentiment%20analysis/img/reviews%20rating.png?raw=true)
 ## 💻 Software professionals salary analysis
 A look at the indian job market for software professionals.
-![Rating to salary](a)
+![Rating to salary](https://github.com/flbonanni/python/blob/master/Software%20Professionals%20Salary%20database/img/rating%20to%20salary.png?raw=true)
 ## 💰 Startup funding analysis
 Investigating Indian startups' funding, including the startup's details, the funding it received, and the investors' information. Using data from the 'Software professionals salary analysis' as well as scraping the census 2011 page for more data.
-![Population to literacy](a)
+![Population to literacy](https://github.com/flbonanni/python/blob/master/Startup%20funding%20database/img/population%20to%20literacy.png?raw=true)
 ## 🎥 Web scraping IMDB
 Scraping of the IMDB website, returning stats about the top movies.
-![Top movies](a)
+![Top movies](https://github.com/flbonanni/python/blob/master/Web%20scraping%20IMDB/img/top%20movies.PNG?raw=true)
